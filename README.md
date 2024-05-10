@@ -238,6 +238,7 @@
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins.](https://github.com/v1nc/flipperzero-firmware)
+- [`BMOware` Official firmware Fork with cute BMO Themed Firmware](https://github.com/TreevorXD/BMOware)
 
 ## Graphics & Animations
 
